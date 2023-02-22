@@ -7,4 +7,5 @@ Peace of mind
 Food
 Exercise
 Computer
+learn Git
 These are all the important things for me!
