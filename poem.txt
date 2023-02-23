@@ -10,4 +10,7 @@ Exercise
 <projects>
 play on Computer
 learn Git
+raising ponies
 These are all the important things for me!
+
+testing merging ponies branch into main after modifications on both
