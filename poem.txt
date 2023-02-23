@@ -10,4 +10,5 @@ Exercise
 <projects>
 play on Computer
 learn Git
+practice SQL
 These are all the important things for me!
